@@ -1,0 +1,25 @@
+.price {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+}
+
+.price-btn-primary {
+  padding: 0.6em 1.2em;
+  width: 25em;
+  font-size: 1.2em;
+  background: transparent;
+  border: 0.5px solid #777;
+  border-radius: 7px;
+  transition: background-color 0.3s ease;
+  color: #f8fafc;
+  background-color: rgba(213, 57, 30, 0.8);
+  border: #c6afaf;
+}
+
+.details {
+  border: 0.5px solid #fdf9f9;
+  border-radius: 7px;
+  box-shadow: 1px 3px 3px #e0ddddf9;
+}

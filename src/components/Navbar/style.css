@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+  .logo > h1 {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  .navbar-links {
+    display: none;
+  }
+  .navbar-links.open {
+    display: flex;
+  }
+}
+
+.sevillana-regular {
+  font-family: "Sevillana", cursive;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.badge {
+  font-size: 25px;
+}
